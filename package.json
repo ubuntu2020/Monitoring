@@ -1,0 +1,24 @@
+{
+  "name": "Monitoring",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^16.0.0",
+    "react-dom": "^16.0.0"
+  },
+  "devDependencies": {
+    "browserify": "^14.5.0",
+    "gulp": "^3.9.1",
+    "gulp-stylus": "^2.6.0",
+    "gulp-watchify": "^0.7.0",
+    "stylus": "^0.54.5",
+    "vinyl-source-stream": "^1.1.0"
+  }
+}
